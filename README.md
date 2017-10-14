@@ -15,4 +15,4 @@ Puedes realizar el clonado del repositorio o la descarga en el archivo .zip comp
       También te permitirá crear uno nuevo, se tiene la validació respectiva de los campos del formulario y mensajes de avisos.
 
 ### Cualquier duda visitar 
-    [Documentación Oficial de Laravel]('https://laravel.com/docs/5.4/')
+    Documentación Oficial de Laravel => 'https://laravel.com/docs/5.4/'
