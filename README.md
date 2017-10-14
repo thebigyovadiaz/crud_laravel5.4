@@ -11,6 +11,8 @@ Puedes realizar el clonado del repositorio o la descarga en el archivo .zip comp
     - Realizar la creación de la base de datos, debe ser igual al del archivo .env
     - Realizar la carga de data en la base de datos aplicando via consola el siguiente comando: php artisan migrate
     - Luego tendrás cargado en la base de datos 40 registros en la tabla productos.
-    - El CRUD te mostrará un listado, con acciones de ver editar eliminar un producto. También te permitirá crear uno nuevo, se tiene la validació respectiva de los campos del formulario y mensajes de avisos.
+    - El CRUD te mostrará un listado, con acciones de ver editar eliminar un producto. 
+      También te permitirá crear uno nuevo, se tiene la validació respectiva de los campos del formulario y mensajes de avisos.
 
-### Cualquier duda visita [Documentación Oficial de Laravel]('https://laravel.com/docs/5.4/')
+### Cualquier duda visitar 
+    [Documentación Oficial de Laravel]('https://laravel.com/docs/5.4/')
